@@ -4,7 +4,7 @@ This is queue manager written in NodeJS
 
 You must install NodeJS and ExpressJS.
 
-To run it, type 'node ./bin/www'
+To run it, type 'node ./bin/www' in the directory 'hyperqueue'
 
 Everything is managed from a browser.
 
