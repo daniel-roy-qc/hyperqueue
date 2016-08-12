@@ -2,7 +2,7 @@ HyperQueue
 
 This is queue manager written in NodeJS
 
-You must install NodeJS and expreesJS.
+You must install NodeJS and ExpressJS.
 
 To run it, type 'node ./bin/www'
 
