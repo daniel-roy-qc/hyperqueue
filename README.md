@@ -6,7 +6,7 @@ You must install NodeJS and ExpressJS.
 
 To run it, type 'node ./bin/www'
 
-Everything is manage from a browser.
+Everything is managed from a browser.
 
 1st, you must register each producer and consumer users : 
    http://localhost:4430/newUsers?event={"userid": 123,"name": "Alicia"}
